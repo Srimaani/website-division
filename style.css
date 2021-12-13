@@ -1,0 +1,13 @@
+
+            h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+        .fire {
+            background-color: red;
+            display:flex;
+            justify-content: space-between;
+        }
